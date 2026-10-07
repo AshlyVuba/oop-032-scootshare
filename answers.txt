@@ -1,0 +1,87 @@
+DO NOT CHANGE THE FORMAT -- DO NOT CREATE A NEW txt file
+
+=== Question 1.1 (4 marks) ===
+#Scrum roles and what each is accountable for:
+
+#The four Scrum events:
+
+
+=== Question 1.2 (3 marks) ===
+#Story 1:
+
+#Story 2:
+
+#Story 3:
+
+#Which INVEST property does your split satisfy best, and why?
+
+
+=== Question 1.3 (3 marks) ===
+#Stories selected for the sprint (and their total points):
+
+#Justification:
+
+#What happens to the stories that were not selected, and what must be true before a selected story counts as finished?
+
+
+=== Question 2.1 (3 marks) ===
+#Answer below
+
+
+=== Question 2.2 (3 marks) ===
+#Answer below
+
+
+=== Question 2.3 (written part) ===
+#List every rule of PromoCodeParser that you discovered, including any behaviour you believe is a bug (your tests go in PromoCodeParserTest.java):
+
+
+=== Question 2.4.1 (4 marks shared with 2.4.2) ===
+#Method 1 - name the method, the code smell, and why it is a problem:
+
+#Method 2 - name the method, the code smell, and why it is a problem:
+
+
+=== Question 2.4.2 ===
+#Method 1 - why is your new structure more maintainable? (3 to 5 sentences)
+
+#Method 2 - why is your new structure more maintainable? (3 to 5 sentences)
+
+
+=== Question 3.1 (written part) ===
+#Name two distinct problems with the original Rider class and the bug each one makes possible:
+
+
+=== Question 3.2 (written part) ===
+#Which design pattern does PricingStrategy / TripPricer form? Why is it better than an if/else chain inside TripPricer, and what exactly would you need to do to add a "WEEKLY_PASS" plan?
+
+
+=== Question 4.1 (4 marks) ===
+#Answer below
+
+
+=== Question 4.2 (6 marks) ===
+#Write your sequence diagram below as Mermaid (sequenceDiagram) or PlantUML text.
+#Suggested Mermaid start:   sequenceDiagram
+
+
+=== Question 5.1 (3 marks) ===
+#Answer below
+
+
+=== Question 5.2 (written part) ===
+#What was wrong with the original build? Give both faults, the error each one produced, and how you fixed it:
+
+
+=== Question 6.1 (4 marks) ===
+#Answer below
+
+
+=== Question 7.1 (4 marks) ===
+#(a) Status code and one-sentence reason for each situation:
+
+#(b) Path parameter vs query parameter:
+
+
+=== Question 7.3 (4 marks) ===
+#Write your CSS below.
